@@ -217,7 +217,7 @@ function portfolioComponent () {
       yo.update(element, newElement)
    }
   function openNewTab() {
-    var url = ""
+    var url = "https://esova-isidora1992.github.io/quiz/"
     var win = window.open(url, '_blank')
     win.focus()
   }
